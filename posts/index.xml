@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Go Shenanigans</title>
+    <link>https://flabbergabber.github.io/posts/</link>
+    <description>Recent content in Posts on Go Shenanigans</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2020, David Methot; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 02 Jun 2020 20:18:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://flabbergabber.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://flabbergabber.github.io/posts/welcome/</link>
+      <pubDate>Tue, 02 Jun 2020 20:18:00 -0400</pubDate>
+      
+      <guid>https://flabbergabber.github.io/posts/welcome/</guid>
+      <description>Welcome to my blog!</description>
+    </item>
+    
+  </channel>
+</rss>
